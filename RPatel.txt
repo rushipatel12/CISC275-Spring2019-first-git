@@ -1,2 +1,0 @@
-Username: rushipatel12 
-URL: https://github.com/rushipatel12/CISC275-Spring2019-first-git.git
