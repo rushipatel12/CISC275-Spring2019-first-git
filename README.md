@@ -11,4 +11,4 @@ The five objects created in main are an List<Dog> object, 3 Dog objects (Dog("Fi
 
 The comparator constructor call is Collections.sort(dogs, new Comparator<Animal>(). 
 
-The class definition for the comparator is in import java.util.Comparator; where the method is overridden is inside of the collections sort method. Collections.sort(dogs, new Comparator<Animal>(){HERE}
+The class definition for the comparator is within the constructor where the method is overridden is inside of the collections sort method. Collections.sort(dogs, new Comparator<Animal>(){}. The new Comparator<Animal>() line is the class definition for comparator. 
